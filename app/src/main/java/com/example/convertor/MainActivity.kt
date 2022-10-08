@@ -267,7 +267,8 @@ class MainActivity : AppCompatActivity() {
         else {
             if(a+a1>0){
                 day.text="today"
-                val b=a%100
+                var b=a%100
+                b=b+(-2*b)
                 val b1=a1%100
                 if(b<=b1){
                     a1+=a
