@@ -14,7 +14,7 @@
 
 * *Time convertor*
 
-***
+
 
 - ## Distance convertor
     - centimeter -> meter , kilometer , miles
@@ -24,7 +24,7 @@
 
 <br>
 
-***
+
 
 - ## Currency convertor
     - Rupess(IN) -> Dollar(USA) , Pound(UK) , Rubles(Russia)
@@ -34,7 +34,7 @@
 
 <br>
 
-***
+
 
 - ## Timezone Convertor 
     - IST(UTC+05:30) -> GMT(UTC+00:00) , England,UK(UTC+01:00) , EDT(UTC-04:00)
@@ -44,18 +44,26 @@
 
 <br>
 
-***
+
 
 ## UI Images
 
-<div>
+<div align ="center">
 
-<img src="https://i.imgur.com/V5JgUoQ.jpeg"  alt ="image1" width="640" >
-
-
-<img src="https://imgur.com/M3QDkG0.jpeg"  alt ="image2" width="640" >
+<img src="https://i.imgur.com/V5JgUoQ.jpeg"  alt ="image1" width="270" height ="585">
+<img src="https://imgur.com/M3QDkG0.jpeg"  alt ="image2" width="270" height = "585">
 
 </div>
 
+<div>
+    
+    
+### Contect INFO :
 
+**Name** : Rajat Singh
+    
+**Gmail** : Rajatsingh072002@gmail.com
+    
+</div>
+    
 
