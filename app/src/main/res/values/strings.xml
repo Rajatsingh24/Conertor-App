@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Convertor</string>
+    <string name="enter_value">Enter Value</string>
+    <string name="enter_value1">Enter Value in HH:MM Format</string>
+    <string name="converter">Converter</string>
+    <string name="converted_amount">Converted Amount</string>
+    <string name="result">Result :</string>
+    <string-array name="a1">
+        <item>Choose any from below</item>
+        <item>centimeter</item>
+        <item>meter</item>
+        <item>kilometer</item>
+        <item>miles</item>
+    </string-array>
+    <string-array name="a2">
+        <item>Choose any from below</item>
+        <item>Rupees(India)</item>
+        <item>Dollar(USA)</item>
+        <item>Pound(UK)</item>
+        <item>Rubles(Russia)</item>
+    </string-array>
+    <string-array name="a3">
+        <item>Choose any from below</item>
+        <item>IST(UTC+05:30)</item>
+        <item>GMT(UTC+00:00)</item>
+        <item>England,UK(UTC+01:00)</item>
+        <item>EDT(UTC-04:00)</item>
+    </string-array>
+
+</resources>
